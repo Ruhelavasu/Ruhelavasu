@@ -19,9 +19,8 @@ I’m a Computer Systems and Engineering graduate from Riga Technical University
 I have hands-on experience in:
 - Frontend and full-stack development
 - React-based web apps
-- Android app development
 - SQL and database management
-- SAP web development basics
+- Web development basics
 
 ---
 
